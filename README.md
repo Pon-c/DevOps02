@@ -139,4 +139,5 @@ Hotkey:
 
     Markup Code appears between colons :EMOJICODE:
 
-    :mask:
+    😷😁
+    Phonkrit Chinatiworn 632115031
